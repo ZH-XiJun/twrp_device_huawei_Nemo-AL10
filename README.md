@@ -2,7 +2,7 @@
 
 **Use twrp-7.1 for TWRP source branch, although the watch runs Android 8.1 system**
 
-**Prebuilt TWRP images are in [Actions Builder](https://github.com/zh-xijun/acrion-twrp-builder/releases)**
+**Prebuilt TWRP images are in [Actions Builder](https://github.com/zh-xijun/action-twrp-builder/releases)**
 
 ```
 #
