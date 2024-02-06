@@ -1,4 +1,7 @@
-# Android device tree for HUAWEI NEO-AL10 (Nemo-AL10)
+# TWRP device tree for HUAWEI Kids Watch 3s (Nemo-AL10)
+
+**Use twrp-7.1 for TWRP source branch, although the watch runs Android 8.1 system**
+**Prebuilt TWRP images are in [Actions Builder](https://github.com/zh-xijun/acrion-twrp/builder/releases)**
 
 ```
 #
